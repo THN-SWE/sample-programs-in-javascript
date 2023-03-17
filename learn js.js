@@ -56,3 +56,7 @@ function onlyPrime(n) {
 // onlyPrime(100);
 
 // funtions allows code reusability
+
+function fibb(n){
+//  this is a funtion to find all the fibbonacci numbers from 1 to n ;
+}
