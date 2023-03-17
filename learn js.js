@@ -57,6 +57,10 @@ function onlyPrime(n) {
 
 // funtions allows code reusability
 
+function fibb(n){
+//  this is a funtion to find all the fibbonacci numbers from 1 to n ;
+}
+
 function factorialFunc(n){
     // this function will return the factorial of n 
 }
