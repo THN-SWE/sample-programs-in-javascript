@@ -56,3 +56,7 @@ function onlyPrime(n) {
 // onlyPrime(100);
 
 // funtions allows code reusability
+
+function factorialFunc(n){
+    // this function will return the factorial of n 
+}
